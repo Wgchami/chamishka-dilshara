@@ -1,5 +1,5 @@
 # Hey there! I'm Chamishka Dilshara 👋  
-🎓 NSBM Student | 👨‍💻 Cybersecurity Enthusiast | 🎥 Videographer | 📸 Photographer  
+🎓 NSBM Student | 👨‍💻 Computer Security Enthusiast | 🎥 Videographer | 📸 Photographer  
 
 ---
 
@@ -19,8 +19,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-## 🛠️ Tech Stack | 🧠 මට තියෙන දැනුම සහ භාවිතා කරන ටූල්ස්
+## 🛠️ Tech Stack |
+## 🛠️ Tech Stack | 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> `React.js`  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/> `Next.js` – 
@@ -37,6 +37,8 @@
 <img src="https://code.visualstudio.com/assets/favicon.ico" width="25"/> `VS Code` 
 
 
----
+## 🔗 Connect With Me
+- 🧠 linked in: [chamishka dilshara](https://www.linkedin.com/in/chamishka-dilshara-88ba12267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📷 Instagram: [@itz_chamiz]
 
 
