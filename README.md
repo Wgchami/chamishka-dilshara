@@ -39,6 +39,6 @@
 
 ## 🔗 Connect With Me
 - 🧠 linked in: [chamishka dilshara](https://www.linkedin.com/in/chamishka-dilshara-88ba12267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📷 Instagram: [@itz_chamiz] (https://www.instagram.com/itz_chamiz?igsh=MThnaGFiajlrdjdkcg%3D%3D&utm_source=qr)
+- 📷 Instagram: [itz_chamiz] (https://www.instagram.com/itz_chamiz?igsh=MThnaGFiajlrdjdkcg%3D%3D&utm_source=qr)
 
 
