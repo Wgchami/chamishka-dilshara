@@ -4,7 +4,7 @@
 ---
 
 ## 💻 What I Do
-- 🧠 Computer Security Degree @ NSBM
+- 🧠 Data Science  Degree @ NSBM
 - 💡 Frontend Developer with React, Firebase, and clean UI vibes
 - 🤖 Crafting a Private AI Assistant (Jarvis-style automation)
   
