@@ -1,5 +1,5 @@
 # Hey there! I'm Chamishka Dilshara 👋  
-🎓 NSBM Student | 👨‍💻 Data Science Enthusiast | 🎥 Videographer | 📸 Photographer  
+🎓 NSBM Student | 👨‍💻 Data Science Enthusiast  | 📸 Photographer  
 
 ---
 
