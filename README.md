@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6fe6ad24-84fd-4592-a179-18147ac33700" />
+
 # Hey there! I'm Chamishka Dilshara 👋  
 🎓 NSBM Student | 👨‍💻 Data Science Enthusiast  | 📸 Photographer  
 
